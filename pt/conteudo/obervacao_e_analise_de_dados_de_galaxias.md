@@ -36,7 +36,7 @@ As galáxias são sistemas complexos compostos por estrelas de diferentes idades
 
 * **Raios-X e Gama (ex: Chandra, XMM-Newton):** Detectam gás extremamente quente em aglomerados de galáxias e a acreção violenta de matéria ao redor de Núcleos Galácticos Ativos (AGNs).
 
-![Messier 81 em Múltiplos Comprimentos de Onda](./figures/m81_multiwavelength.jpg)
+![Messier 81 em Múltiplos Comprimentos de Onda](./figures/Sig07-009.jpg)
 *Figura 1: A galáxia espiral Messier 81 (M81) observada em múltiplos comprimentos de onda (Infravermelho pelo Spitzer, Ultravioleta pelo GALEX e Óptico pelo Hubble), destacando diferentes estruturas físicas. Fonte: NASA/JPL-Caltech/ESA/Harvard-Smithsonian CfA.*
 
 ## 3. Técnicas Fundamentais de Coleta de Dados
@@ -63,7 +63,7 @@ Onde $R_e$ é o raio efetivo (que contém metade da luz total), $I_e$ é a inten
 
 A espectroscopia dispersa a luz da galáxia em função do comprimento de onda, revelando linhas de absorção (causadas por atmosferas estelares) e linhas de emissão (causadas por gás ionizado, como $H\alpha$ e $[O\text{ III}]$).
 
-![Deslocamento para o Vermelho (Redshift)](./figures/redshift.png)
+![Deslocamento para o Vermelho (Redshift)](./figures/Redshift_horizontal.png)
 *Figura 2: Representação do deslocamento das linhas espectrais de absorção para o vermelho (Redshift) em um superaglomerado de galáxias distantes (direita) comparado ao espectro do Sol (esquerda). Fonte: Georg Wiora / Wikimedia Commons.*
 
 A análise espectral permite calcular diretamente o **Redshift (**$z$**)** (desvio para o vermelho):
@@ -95,7 +95,7 @@ Diferente de fotos comuns (`.jpg` ou `.png`), os dados astronômicos profissiona
 | **Gaia** (ESA) | Óptico | Astrometria e Fotometria | Mapeamento cinemático preciso da Via Láctea e galáxias satélites locais. | 
 | **Vera C. Rubin (LSST)** | Óptico | Fotometria em série temporal | Gerará $\sim 20\text{ TB}$ de dados por noite, catalogando bilhões de galáxias. | 
 
-![Mapa de Redshift de Galáxias](./figures/redshift_survey.png)
+![Mapa de Redshift de Galáxias](./figures/2dfgrs.png)
 *Figura 3: Mapa da distribuição em grande escala de galáxias obtido através da análise de dados de redshift de levantamentos espectroscópicos (2dFGRS). Cada ponto representa uma galáxia. Fonte: 2dF Galaxy Redshift Survey / Wikimedia Commons.*
 
 ## 5. Análise de Dados Moderna e Ciência de Dados
