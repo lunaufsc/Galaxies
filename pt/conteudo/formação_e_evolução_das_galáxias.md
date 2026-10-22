@@ -61,7 +61,7 @@ Existem duas possibilidades que explicam a sequência temporal da formação das
 
 ### Cenário bottom-up
 
-O cenário bottom-up teoriza que a matéria escura no momento da Recombinação era fria (ou seja, não relativística), então massas maiores do que 10⁶ M são as que cresceram primeiro, assim, as galáxias teriam se formado por estruturas menores que fusionaram.
+O cenário bottom-up teoriza que a matéria escura no momento da Recombinação era fria (ou seja, não relativística), então massas maiores do que $10^{6}\,M_\odot$ são as que cresceram primeiro, assim, as galáxias teriam se formado por estruturas menores que fusionaram.
 
 ### Cenário top-down
 
