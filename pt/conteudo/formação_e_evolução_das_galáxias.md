@@ -1,13 +1,9 @@
 # Formação e Evolução das Galáxias
 
-> Texto de pesquisa para o grupo de estudo.
-
 ## Sumário
 
 - [Como era o Universo antes da formação de galáxias?](#como-era-o-universo-antes-da-formação-de-galáxias)
 - [As flutuações e como elas contribuíram para a formação das galáxias](#as-flutuações-e-como-elas-contribuíram-para-a-formação-das-galáxias)
-  - [O que são flutuações no contexto cósmico?](#o-que-são-flutuações-no-contexto-cósmico)
-  - [Instabilidade Gravitacional](#instabilidade-gravitacional)
 - [A matéria escura e seu papel fundamental](#a-matéria-escura-e-seu-papel-fundamental)
 - [Cenários bottom-up e top-down](#cenários-bottom-up-e-top-down)
 - [Observações que desafiam os modelos aceitos](#observações-que-desafiam-os-modelos-aceitos-e-o-caráter-mutável-da-cosmologia)
@@ -37,11 +33,7 @@ Essas variações existem tanto na matéria escura quanto na matéria bariônica
 
 As flutuações, como pequenas perturbações na homogeneidade do Universo Primordial, geram uma força gravitacional um pouco mais intensa. É isso que chamamos de **Instabilidade Gravitacional**.
 
-A Instabilidade Gravitacional é o entendimento de que uma distribuição irregular de matéria é instável sob influência da gravidade, ficando cada vez mais irregular com o tempo. Trata-se de um processo de retroalimentação:
-
-1. quanto maior a densidade de matéria, maior a gravitação em torno dela;
-2. isso atrai ainda mais matéria dos arredores;
-3. a densidade aumenta e o ciclo se repete.
+A Instabilidade Gravitacional é o entendimento de que uma distribuição irregular de matéria é instável sob influência da gravidade, ficando cada vez mais irregular com o tempo. Trata-se de um processo de retroalimentação: quanto maior a densidade de matéria, maior a gravitação em torno dela, o que atrai ainda mais matéria dos arredores, aumentando a densidade e assim sucessivamente. 
 
 Portanto, as flutuações e a Instabilidade Gravitacional são os estopins para a formação de galáxias.
 
@@ -61,19 +53,21 @@ Como já mencionado, as flutuações existem tanto na matéria escura quanto na 
 
 Então, a matéria escura colapsa, formando poços de potencial gravitacional que posteriormente atraem a matéria bariônica para as regiões onde já existem concentrações de matéria escura. Isso permite que as estruturas cresçam e se encaminhem para se tornarem o que conhecemos hoje.
 
-> **Nota:** cerca de 30 anos atrás, cresceu o entendimento de que o crescimento das flutuações estaria ligado à presença de buracos negros supermassivos, possivelmente presentes em todas as galáxias. Esse ponto não será aprofundado aqui, pois pode invadir o escopo de pesquisa de outro tópico.
+> **Nota:** Cerca de 30 anos atrás, cresceu o entendimento de que o crescimento das flutuações estaria ligado à presença de buracos negros supermassivos, possivelmente presentes em todas as galáxias. Esse ponto não será aprofundado aqui, pois pode invadir o escopo de pesquisa de outro tópico.
 
 ## Cenários bottom-up e top-down
 
-Existem duas possibilidades que explicam a sequência temporal da formação das galáxias como as conhecemos:
+Existem duas possibilidades que explicam a sequência temporal da formação das galáxias como as conhecemos: os cenários bottom-up e top-down.
 
-| | **Bottom-up** | **Top-down** |
-|---|---|---|
-| **Matéria escura** | Fria (não relativística) | Quente (relativística) |
-| **O que colapsa primeiro** | Massas maiores que $10^{6}\,M_\odot$ | Apenas estruturas supermassivas |
-| **Formação das galáxias** | Fusão de estruturas menores | Fragmentação de estruturas muito maiores |
+### Cenário bottom-up
 
-Atualmente, há uma forte preferência por parte dos estudiosos pelo cenário **bottom-up**, apesar de outros cenários não serem completamente excluídos.
+O cenário bottom-up teoriza que a matéria escura no momento da Recombinação era fria (ou seja, não relativística), então massas maiores do que 10⁶ M são as que cresceram primeiro, assim, as galáxias teriam se formado por estruturas menores que fusionaram.
+
+### Cenário top-down
+
+Já o cenário top-down prevê que a matéria escura no momento da Recombinação é relativística, portanto, apenas estruturas supermassivas podem ter começado a colapsar, então as galáxias teriam sido formadas pela fragmentação de estruturas muito maiores.
+
+> **Nota:** Atualmente, há uma forte preferência por parte dos estudiosos pelo cenário **bottom-up**, apesar de outros cenários não serem completamente excluídos.
 
 ## Observações que desafiam os modelos aceitos e o caráter mutável da cosmologia
 
