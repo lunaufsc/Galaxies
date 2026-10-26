@@ -3,7 +3,7 @@ Galáxias são sistemas astronômicos compostos por estrelas, gases, planetas, a
 
 ![Galáxia de Andrômeda](../../figures/andromeda.jpg)
 
-# Estrutura de Galáxias Espirais
+# Estrutura das Galáxias
 A estrutura de uma galáxia pode ser divida em três partes: um núcleo ou bojo, um disco e um halo
 
 * **Núcleo**: É a região central da galáxia, onde há uma grande concentração de estrelas. Em algumas galáxias, pode abrigar um buraco negro supermassivo. Quando há intensa atividade nessa região, grandes quantidades de energia e radiação podem ser emitidas, tornando o centro muito brilhante.
